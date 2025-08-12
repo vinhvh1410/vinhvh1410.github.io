@@ -1,4 +1,5 @@
 google.com, pub-1801408216613473, DIRECT, f08c47fec0942fa0
+google.com, pub-7529800677506929, DIRECT, f08c47fec0942fa0
 facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 greedygame.com,3055722897079350,direct
 pubmatic.com,161480,reseller,5d62403b186f2ace
